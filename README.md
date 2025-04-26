@@ -3,16 +3,14 @@
 🎯 Fullstack Developer | Java • Spring Boot • React • SQL  
 💻 3+ Years Industry Experience | Learning DevOps & Cloud
 
----
-
 ## 🌱 About Me
 
 - 🧑‍💻 Fullstack Developer  
 - 🔧 Skilled in working with Java, Spring Boot, React and SQL  
-- 🌐 3 years of professional experience
+- 🌐 3 years of Professional Experience
 - ☁️ Currently learning DevOps & Cloud for Microservices Development
+- 🧑‍💻 Building in Public
 
----
 
 ## 📫 Let’s Connect
 
@@ -20,6 +18,3 @@
 - [Twitter](https://twitter.com/jbariya_dev)  
 - 📬 jaydeepbariya.dev@gmail.com
 
----
-
-_Thanks for visiting! More coming soon..._
