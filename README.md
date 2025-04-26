@@ -16,5 +16,5 @@
 
 - [LinkedIn](https://linkedin.com/in/jaydeepbariya)  
 - [Twitter](https://twitter.com/jbariya_dev)  
-- 📬 jaydeepbariya.dev@gmail.com
+- jaydeepbariya.dev@gmail.com
 
