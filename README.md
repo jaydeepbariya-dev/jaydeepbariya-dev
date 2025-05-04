@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Jaydeep Bariya
 
 🎯 Fullstack Developer | Java • Spring Boot • React • SQL  
-💻 3+ Years Industry Experience | Learning DevOps & Cloud
-
+💻 3+ Years Industry Experience | Learning Problem Solving using DSA
 ## 🌱 About Me
 
 - 🧑‍💻 Fullstack Developer  
