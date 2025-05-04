@@ -9,7 +9,7 @@
 - 🔧 Skilled in working with Java, Spring Boot, JavaScript, React, MongoDB and SQL
 - 🔧 Knowledge in Node, Express, MongoDB
 - 🌐 3 years of Professional Experience
-- ☁️ Currently learning DevOps & Cloud for Microservices Development
+- ☁️ Currently learning Problem Solving in DSA
 - 🧑‍💻 Building in Public
 
 
