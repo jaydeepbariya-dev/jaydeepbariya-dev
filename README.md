@@ -6,7 +6,8 @@
 ## 🌱 About Me
 
 - 🧑‍💻 Fullstack Developer  
-- 🔧 Skilled in working with Java, Spring Boot, Node, Express, JavaScript, React, MongoDB and SQL
+- 🔧 Skilled in working with Java, Spring Boot, JavaScript, React, MongoDB and SQL
+- 🔧 Knowledge in Node, Express, MongoDB
 - 🌐 3 years of Professional Experience
 - ☁️ Currently learning DevOps & Cloud for Microservices Development
 - 🧑‍💻 Building in Public
