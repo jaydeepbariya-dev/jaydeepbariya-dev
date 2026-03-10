@@ -1,21 +1,19 @@
 # 👋 Hi, I'm Jaydeep Bariya
 
-🎯 Fullstack Developer | Java • Spring Boot • SQL  
-💻 3+ Years Industry Experience | Learning DSA & ML
+🎯 Backend Developer | Java • Spring Boot • SQL  
+💻 3+ Years Industry Experience | Learning DSA & GenAI
 
 ## 🌱 About Me
 
-- 🧑‍💻 Fullstack Developer  
+- 🧑‍💻 Backend Developer  
 - 🔧 Skilled in working with Java, Spring Boot and SQL
-- 🔧 Knowledge in Node, Express, MongoDB
-- 🌐 3 years of Professional Experience as Backend Developer
-- ☁️ Currently learning Problem Solving in DSA
+- 🌐 4 years of Professional Experience as Backend Developer
+- ☁️ Currently learning Problem Solving in DSA and GenAI
 - 🧑‍💻 Building in Public
 
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/jaydeepbariya)  
-- [Twitter](https://twitter.com/jbariya_dev)  
+- [LinkedIn](https://linkedin.com/in/jaydeepbariya)   
 - jaydeepbariya.dev@gmail.com
 
