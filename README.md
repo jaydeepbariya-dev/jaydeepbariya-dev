@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jaydeep Bariya
 
 🎯 Backend Developer | Java • Spring Boot • SQL  
-💻 3+ Years Industry Experience | Learning DSA & GenAI
+💻 4+ Years Industry Experience | Learning DSA & GenAI
 
 ## 🌱 About Me
 
