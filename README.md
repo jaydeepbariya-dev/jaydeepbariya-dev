@@ -1,19 +1,40 @@
-# 👋 Hi, I'm Jaydeep Bariya
+# Hi, I'm Jaydeep Bariya 👋
 
-🎯 Backend Developer | Java • Spring Boot • SQL  
-💻 4+ Years Industry Experience | Learning DSA & GenAI
+Backend Engineer with 4+ years of experience developing Java and Spring Boot applications.
 
-## 🌱 About Me
+## Tech Stack
 
-- 🧑‍💻 Backend Developer  
-- 🔧 Skilled in working with Java, Spring Boot and SQL
-- 🌐 4 years of Professional Experience as Backend Developer
-- ☁️ Currently learning Problem Solving in DSA and GenAI
-- 🧑‍💻 Building in Public
+Java • Maven • Spring Boot • SQL • REST APIs • Microservices • Docker • AWS
 
+## What I'm Learning
 
-## 📫 Let’s Connect
+- System Design
+- GenAI
 
-- [LinkedIn](https://linkedin.com/in/jaydeepbariya)   
-- jaydeepbariya.dev@gmail.com
+## Areas of Interest
+
+- Scalable Backend Systems
+- Database Optimization
+- API Design
+- Microservices Architecture
+- Cloud-Native Development
+
+## Featured Projects
+
+- Project 1 – [Order Inventory Management System](https://github.com/jaydeepbariya-dev/order-inventory-management-platform)
+- Project 2 – [AuthShield](https://github.com/jaydeepbariya-dev/authshield)
+
+## 2026 Goals
+
+- Master System Design
+- Become a Strong Full-Stack Engineer
+- Build Portfolio Projects
+- Secure a High-Impact Software Engineering Role
+
+## Connect
+
+Email: [jaydeepbariya.dev@gmail.com](mailto:jaydeepbariya.dev@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/jaydeepbariya](https://www.linkedin.com/in/jaydeepbariya)
+X: [https://www.x.com](https://x.com/jbariya_dev)]
+Instagram: [https://www.instagram.com/jbariya_dev](https://www.instagram.com/jbariya_dev)
 
