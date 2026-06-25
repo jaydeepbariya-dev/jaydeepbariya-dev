@@ -1,14 +1,13 @@
 # Hi, I'm Jaydeep Bariya 👋
 
-Backend Engineer with 4 years of experience developing Java and Spring Boot applications.
+Software Engineer | Fullstack | 4 Years Experience
 
 ## Tech Stack
 
-Java • Maven • Spring Boot • SQL • REST APIs • Microservices • Docker • AWS
+Java • Maven • Spring Boot • SQL • REST APIs • Microservices • Docker • AWS • JavaScript • React
 
 ## What I'm Learning
 
-- System Design
 - GenAI
 
 ## Areas of Interest
@@ -18,6 +17,7 @@ Java • Maven • Spring Boot • SQL • REST APIs • Microservices • Docke
 - API Design
 - Microservices Architecture
 - Cloud-Native Development
+- Fullstack Development
 
 ## Featured Projects
 
@@ -28,6 +28,7 @@ Java • Maven • Spring Boot • SQL • REST APIs • Microservices • Docke
 ## 2026 Goals
 
 - Become a Strong Full-Stack Engineer
+- Gain Knowledge of GenAI
 
 ## Connect
 
