@@ -1,6 +1,6 @@
 # Hi, I'm Jaydeep Bariya 👋
 
-Software Engineer | Fullstack | 4 Years Experience
+Software Engineer | Fullstack | 4.5 Years Exp
 
 ## Tech Stack
 
